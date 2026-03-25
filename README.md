@@ -1,4 +1,4 @@
-- Hi, I’m Joseph
+# Welcome to my GitHub
 
 I am primarily a planning analytics/TM1 developer and I do some TM1py too. Usually in my own time.
 
