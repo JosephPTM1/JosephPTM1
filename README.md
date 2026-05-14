@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-I am primarily a planning analytics/TM1 developer and I do some TM1py too. Usually in my own time.
+I am primarily a planning analytics/TM1 developer and I do some TM1py too.
 
 ## Current Project
 * **tm1-auth** - A Python package for CAM MFA authentication with TM1py. **https://github.com/JosephPTM1/tm1-auth** - contributors welcome. 
